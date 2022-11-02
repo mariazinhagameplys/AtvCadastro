@@ -1,0 +1,183 @@
+.emailTitle{
+    position:absolute;
+    top: 5%;
+    left: 8%;
+}
+
+.email{
+    background-color: #EFEFEF;
+    position:absolute;
+    top: 17%;
+    left: 8%;
+    height: 6%;
+    border-radius: 7px;
+    border-color: #EFEFEF;
+    border-style: solid;
+    font-size: 17px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.nomeTitle{
+    position:absolute;
+    top:24%;
+    left: 8%;
+}
+
+.nome{
+    background-color: #EFEFEF;
+    position:absolute;
+    top: 36%;
+    left: 8%;
+    height: 6%;
+    border-radius: 7px;
+    border-color: #EFEFEF;
+    border-style: solid;
+    font-size: 17px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.estadoTitle{
+    position:absolute;
+    top:45%;
+    left: 8%;
+}
+
+.estado{
+    background-color: #EFEFEF;
+    position:absolute;
+    top: 58%;
+    left: 8%;
+    height: 6%;
+    border-radius: 7px;
+    border-color: #EFEFEF;
+    border-style: solid;
+    font-size: 17px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.cidadeTitle{
+    position:absolute;
+    top:65%;
+    left: 8%;
+}
+
+.cidade{
+    background-color: #EFEFEF;
+    position:absolute;
+    top: 78%;
+    left: 8%;
+    height: 6%;
+    border-radius: 7px;
+    border-color: #EFEFEF;
+    border-style: solid;
+    font-size: 17px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.bairroTitle{
+    position:absolute;
+    top: 5%;
+    left: 34%;
+}
+
+.bairro{
+    background-color: #EFEFEF;
+    position:absolute;
+    top: 17%;
+    left: 34%;
+    height: 6%;
+    border-radius: 7px;
+    border-color: #EFEFEF;
+    border-style: solid;
+    font-size: 17px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.idadeTitle{
+    position:absolute;
+    top:24%;
+    left: 34%;
+}
+
+.idade{
+    background-color: #EFEFEF;
+    position:absolute;
+    top: 36%;
+    left: 34%;
+    height: 6%;
+    border-radius: 7px;
+    border-color: #EFEFEF;
+    border-style: solid;
+    font-size: 17px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.generoTitle{
+    position:absolute;
+    top:45%;
+    left: 34%;
+}
+
+.genero{
+    background-color: #EFEFEF;
+    position:absolute;
+    top: 58%;
+    left: 34%;
+    height: 6%;
+    border-radius: 7px;
+    border-color: #EFEFEF;
+    border-style: solid;
+    font-size: 17px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.senhaTitle{
+    position:absolute;
+    top:65%;
+    left:34%;
+}
+
+.senha{
+    background-color: #EFEFEF;
+    position:absolute;
+    top: 78%;
+    left: 34%;
+    height: 6%;
+    border-radius: 7px;
+    border-color: #EFEFEF;
+    border-style: solid;
+    font-size: 17px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.fotoTitle{
+    position:absolute;
+    top: 5%;
+    left: 71%;
+}
+
+.foto{
+    background-color: #EFEFEF;
+    position:absolute;
+    top: 23%;
+    left: 71%;
+    height: 6%;
+    border-radius: 7px;
+    border-color: #EFEFEF;
+    border-style: solid;
+    font-size: 17px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.botao{
+    position: absolute;
+    top: 78%;
+    left:71%;
+    background-color: #9A8BDC;
+    border-color: #9A8BDC;
+    height: 60px;
+    width:200px;
+    border-radius: 7px;
+    color:white;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+}

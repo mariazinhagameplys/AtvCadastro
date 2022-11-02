@@ -1,0 +1,34 @@
+<!--The content below is only a placeholder and can be replaced.-->
+
+<form>
+  <h2 class="emailTitle">Email:</h2>
+  <input type="text" class="email" [(ngModel)]="email" name="email" placeholder="ex: seunome@gmail.com" required>
+
+  <h2 class="nomeTitle">Nome:</h2>
+  <input type="text" class="nome" [(ngModel)]="nome" name="nome" placeholder="ex: Seu Nome" required>
+
+  <h2 class="estadoTitle">Estado:</h2>
+  <input type="text" class="estado"  [(ngModel)]="estado" name="estado" placeholder="ex: Santa Catarina" required>
+
+  <h2 class="cidadeTitle">Cidade:</h2>
+  <input type="text" class="cidade" [(ngModel)]="cidade" name="cidade" placeholder="ex: Jaraguá do Sul" required>
+
+  <h2 class="bairroTitle">Bairro:</h2>
+  <input type="text" class="bairro" [(ngModel)]="bairro" name="bairro" placeholder="ex: Centro" required>
+
+  <h2 class="idadeTitle">Idade:</h2>
+  <input type="text" class="idade" [(ngModel)]="idade" name="idade" placeholder="ex: 27" required>
+
+  <h2 class="generoTitle">Gênero:</h2>
+  <input type="text" class="genero" [(ngModel)]="genero" placeholder="ex: feminino" name="genero" >
+  
+  <h2 class="senhaTitle">Senha:</h2>
+  <input type="text" class="senha" [(ngModel)]="senha" name="senha" placeholder="ex: su@01s3nh@0101-001" required>
+
+  <h2 class="fotoTitle">Foto do que gosta de fazer:</h2>
+  <input type="text" class="foto" [(ngModel)]="imagem" name="imagem" >
+</form>
+
+<div>
+<input class="botao" type="submit" id="enviar" (click)="craftingTable()">
+</div>

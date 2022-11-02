@@ -1,0 +1,19 @@
+table{
+    position: absolute;
+    color: #9A8BDC;
+    padding: 8px;
+    width: 90%;
+    left: 4%;
+    top:10%;
+    text-align: center;
+    border-collapse: collapse;
+}
+th,td{
+    border: 2px solid;
+  
+}
+th{
+    background-color: #9A8BDC;
+    color: white;
+    border: #9A8BDC;
+}
